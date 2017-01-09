@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Alex Pardoe</string>
 	<key>description</key>
-	<string>Theme for TextMate based on the Atom 'One Dark' theme.</string>
+	<string>TextMate theme based on the 'One Dark' theme for Atom.</string>
 	<key>name</key>
 	<string>One Dark</string>
 	<key>uuid</key>
