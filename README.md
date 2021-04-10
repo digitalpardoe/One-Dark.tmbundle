@@ -2,4 +2,4 @@ An inexect clone of Atom's 'One Dark' theme created for TextMate, includes a sta
 
 | Standard | Bright |
 | --- | --- |
-| <img src="http://files.pardoe.io/one_dark.png" /> | <img src="http://files.pardoe.io/one_dark_bright.png" /> |
+| <img src="one_dark.png" /> | <img src="one_dark_bright.png" /> |
